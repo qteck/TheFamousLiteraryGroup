@@ -1,0 +1,10 @@
+# Group 1
+User-agent: Googlebot
+Disallow: /the-daily-scrap/1/beforeUpdate/*
+
+# Group 2
+User-agent: *
+Allow: /
+
+Sitemap: http://thefamousliterarygroup.co.uk/sitemap.xml
+
